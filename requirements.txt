@@ -1,0 +1,4 @@
+streamlit
+pydantic==1.10.14
+sqlite3
+streamlit-pydantic
