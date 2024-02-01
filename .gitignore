@@ -1,6 +1,6 @@
 *.sqlite
 *.sqlite3
 *.db
-.venv
+venv
 *.pyc
 .DS_Store
